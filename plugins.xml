@@ -1,0 +1,25 @@
+<plugins>
+    <pyqgis_plugin name="RouteDEM plugin" version="3.0.0" plugin_id="1">
+        <description>RouteDEM description</description>
+        <about></about>
+        <version>3.0.0</version>
+        <qgis_minimum_version>1.0.0</qgis_minimum_version>
+        <qgis_maximum_version>3.0.0</qgis_maximum_version>
+        <homepage>http://naturalcapitalproject.org/</homepage>
+        <file_name>RouteDEM.zip</file_name>
+        <icon>/static/packages/survey.png</icon>
+        <author_name>Richard Sharp</author_name>
+        <download_url>http://plugins.qgis.org/plugins/arpat/version/0.3.3/download/</download_url>
+        <uploaded_by>Martin Lacayo</uploaded_by>
+        <create_date>2012-06-18T09:43:57.251757</create_date>
+        <update_date>2012-06-18T09:43:57.251757</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker></tracker>
+        <repository>https://code.google.com/p/invest-natcap/</repository>
+        <tags>ecosystem services, InVEST</tags>
+        <downloads>1</downloads>
+        <average_vote>5</average_vote>
+        <rating_votes>1</rating_votes>
+    </pyqgis_plugin>
+</plugins>

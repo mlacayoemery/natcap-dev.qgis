@@ -9,10 +9,10 @@
         <file_name>RouteDEM.zip</file_name>
         <icon>/static/packages/survey.png</icon>
         <author_name>Richard Sharp</author_name>
-        <download_url>http://plugins.qgis.org/plugins/arpat/version/0.3.3/download/</download_url>
+        <download_url>http://ncp-skookum.stanford.edu/~mlacayo/</download_url>
         <uploaded_by>Martin Lacayo</uploaded_by>
-        <create_date>2012-06-18T09:43:57.251757</create_date>
-        <update_date>2012-06-18T09:43:57.251757</update_date>
+        <create_date>2014-06-06T15:00:00.000000</create_date>
+        <update_date>2014-06-06T15:00:00.000000</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker></tracker>
